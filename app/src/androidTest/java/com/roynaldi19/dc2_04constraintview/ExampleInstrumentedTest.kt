@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa02_02constraintview
+package com.roynaldi19.dc2_04constraintview
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

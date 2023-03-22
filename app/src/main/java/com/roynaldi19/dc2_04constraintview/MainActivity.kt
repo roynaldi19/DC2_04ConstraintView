@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa02_02constraintview
+package com.roynaldi19.dc2_04constraintview
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

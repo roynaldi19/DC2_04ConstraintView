@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.roynaldi19.bfaa02_02constraintview"
+        applicationId "com.roynaldi19.dc2_04constraintview"
         minSdk 21
         targetSdk 32
         versionCode 1
